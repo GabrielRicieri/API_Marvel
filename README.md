@@ -1,2 +1,1 @@
-# API_Marvel
-Api marvel
+# marvel-api
